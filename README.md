@@ -1,10 +1,5 @@
-- 👋 Hi, I'm XiaoJiu
-- 👀 A front-end coder
-- 🌱 I’m currently learning Vue3 and Flutter
-- 💞️ Follow me: ZhiHu / BiliBili / Wechat 【前端小玖】
-- 📫 Email: aaron.yyf@qq.com
-
-<!---
-imxiaoer/imxiaoer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 哈啰，大家好！我是鄢云峰，一个有那么点意思的程序员
+- 👀 目前正在学习的技术 VUE3 / NodeJs
+- 🌱 欢迎关注我的社交账号  知乎 / B站 / 公众号， 搜索【鄢云峰】即可
+- 💞️ 个人博客：https://www.occmn.com
+- 📫 邮箱: aaron.yyf@qq.com
